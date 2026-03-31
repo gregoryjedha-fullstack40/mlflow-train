@@ -17,3 +17,10 @@ __pycache__/
 .venv/
 venv/
 env/
+
+
+mlflow-env
+.idea
+.vscode
+awscliv2.zip
+aws/
